@@ -1,0 +1,33 @@
+body {
+    background-color: #f7f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  button{
+    padding: 40px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(202, 198, 198);
+  }
+
+  #divTow{
+    display: none;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    background-color: rgb(207, 200, 200);
+  }
+
+  #close{
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #ff4c4c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
