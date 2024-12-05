@@ -8,7 +8,4 @@ btnOpen.addEventListener('click',()=>{
 
 btnClose.addEventListener('click', () => {
     divTow.style.display = 'none';
-    btnOpen.style.display = 'nono';
-  });
-
-
+});
